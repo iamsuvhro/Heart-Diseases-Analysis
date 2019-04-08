@@ -9,5 +9,6 @@ One file has been "processed", that one containing the Cleveland database. All f
 To see Test Costs (donated by Peter Turney), please see the folder "Costs"
 
 <h1>Analysis Steps</h1>
+
 **Step 1**:EDA (Exploratory Data Analysis<br>
 **Step 2**:Artificial Neural Network
